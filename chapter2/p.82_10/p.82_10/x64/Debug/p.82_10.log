@@ -1,0 +1,5 @@
+﻿  calc.cpp
+C:\Users\james\Desktop\Code_C++\C++_Espresso\Chapter2\p.82_10\p.82_10\calc.cpp(39,17): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\james\Desktop\Code_C++\C++_Espresso\Chapter2\p.82_10\p.82_10\calc.cpp(39,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\james\Desktop\Code_C++\C++_Espresso\Chapter2\p.82_10\p.82_10\calc.cpp(39,11): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  p.82_10.vcxproj -> C:\Users\james\Desktop\Code_C++\C++_Espresso\Chapter2\p.82_10\x64\Debug\p.82_10.exe
